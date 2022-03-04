@@ -1,0 +1,13 @@
+name: a3-kvpoch
+title:
+username:
+account: kvpoch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5778297
+bundleId: 5640258
+url: https://kvpoch.shinyapps.io/a3-kvpoch/
+when: 1646362465.56348
+lastSyncTime: 1646362465.5635
+asMultiple: FALSE
+asStatic: FALSE
